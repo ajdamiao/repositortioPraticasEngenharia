@@ -1,0 +1,4 @@
+- Quem pode criar a conta? Apenas administradores ou usuários também? Qual a complexidade da criação da conta?
+- Verificar detalhes da solicitação - Usuários e administradores podem verificar?
+- Saber quais serão os dados para fazer cadastro empresa e migrante.
+- Como irão ser exibidas os dados das vagas
